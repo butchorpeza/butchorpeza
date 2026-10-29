@@ -24,12 +24,6 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=butchorpeza&theme=synthwave&hide_border=true&cache_seconds=86400" alt="butchorpeza's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=butchorpeza&theme=synthwave&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Butch Orpeza's GitHub Trophies" />
-</p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
 
 
 ## 🛠️ Languages & Tools
@@ -109,4 +103,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
+
 
